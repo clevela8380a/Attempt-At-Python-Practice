@@ -1,0 +1,8 @@
+def Need_Help(self);
+  confusion = 1
+  if confusion == 1;
+    print "I am confused"
+  else:
+    print "NO..."
+
+print Need_Help
